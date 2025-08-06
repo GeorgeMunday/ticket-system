@@ -5,9 +5,6 @@ const Dashboard = () => {
     <div className="p-5 ">
       <div className="md:grid grid-cols-2 xl:grid-cols-4 gap-2">
         <TicketCard />
-        <TicketCard />
-        <TicketCard />
-        <TicketCard />
       </div>
     </div>
   );

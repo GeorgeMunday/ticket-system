@@ -16,7 +16,7 @@ const Nav = () => {
           <FontAwesomeIcon icon={faTicket} className={Styles.icon} />
         </Link>
       </div>
-      <div className={`${Styles.navTextContainer} absolute right-3.5`}>
+      <div className={`absolute right-3.5`}>
         <p className={Styles.icon}>Demo Mode</p>
       </div>
     </nav>
